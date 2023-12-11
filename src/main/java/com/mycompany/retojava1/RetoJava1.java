@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class RetoJava1 {
 
     public static void main(String[] args) {
-Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa el numero limite: ");
         int N = scanner.nextInt();
         int sum = 0;
@@ -35,4 +35,4 @@ Scanner scanner = new Scanner(System.in);
 
     }
 }
-//  imprimir si N es multiplo de 3 o 5
+// imprimir si N es multiplo de 3 o 5
